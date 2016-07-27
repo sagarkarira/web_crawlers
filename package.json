@@ -1,0 +1,23 @@
+{
+  "name": "nodecrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0-rc.6",
+    "cheerio": "^0.20.0",
+    "install": "^0.8.1",
+    "json2csv": "^3.5.0",
+    "mailgun-js": "^0.7.11",
+    "moment": "^2.13.0",
+    "nodemailer": "^2.4.2",
+    "npm": "^3.9.5",
+    "prettyjson": "^1.1.3",
+    "request": "^2.72.0"
+  }
+}
